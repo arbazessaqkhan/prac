@@ -1,0 +1,11 @@
+touch text.txt
+start text.txt #will open it in notepad
+start app_name text.txt ex: start atom text.txt
+rm text.txt #only remove file
+rm * #remove all files inside the current directory
+rm -r dir_name #remove all directories
+sudo rm -rf #forcefully sudo is to get admin previlages
+
+website learnenough.com/command-line-tutorial
+
+
